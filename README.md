@@ -19,7 +19,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 ### Links
 
 - Solution URL: [https://github.com/aravindhan7/result-summary-frontend-mentor-challenge](https://your-solution-url.com)
-- Live Site URL: [https://aravindhan7.github.io/qrcode-challenge/](https://your-live-site-url.com)
+- Live Site URL: [https://aravindhan7.github.io/result-summary-frontend-mentor-challenge](https://your-live-site-url.com)
 
 
 ## Author
